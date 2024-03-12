@@ -1,5 +1,5 @@
 
-# AWS SES SES daily utilisation alert using Lambda
+# AWS SES daily utilisation alert using Lambda
 
 In order to efficiently manage SES usage and ensure it stays within the allocated limits, 
 This Python function that will run on Lambda and fetch data through API calls that are made on the AWS SES service and sending alerts on the SNS topic registered if utilisation go above a certain threshold.
