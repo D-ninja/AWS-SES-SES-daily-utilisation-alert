@@ -13,4 +13,6 @@ Below is the fuction overview -
 
 Here are the polices that is assigned to Lambda fuction - 
 
+Note: Full Access polices are given in Test enviorment, As per AWS Polices try to give minimal access.
+
 ![App Screenshot](https://i.postimg.cc/qvjhzwWD/Screenshot-from-2024-03-12-09-34-43.png)
